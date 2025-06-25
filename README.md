@@ -1,48 +1,60 @@
-# Visitor Counter with Animated Design
+# Welcome to My GitHub Profile 👋
 
-This is a simple, stylish **Visitor Counter** webpage that displays the number of visitors using a third-party visitor count service. The page features an animated, modern design with a glowing title and bouncing profile image.
+## Visitors Count
 
-## Features
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-- Live visitor count displayed via [profile-counter.glitch.me](https://profile-counter.glitch.me)
-- Neon glow effect on the header text using CSS `text-shadow` animation
-- Smooth hover scaling animation on the visitor count box for interactivity
-- Bouncing animation on the profile image to add a dynamic feel
-- Responsive and minimalistic design using Google Fonts (Orbitron)
+  <span style="
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #4CAF50;
+    text-shadow: 1px 1px 2px #00000050;
+    animation: glow 2s ease-in-out infinite alternate;
+  ">
+    𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+  </span>
+  
+  <br><br>
+  
+  <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" alt="Visitor Count" style="
+    width: 180px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(76, 175, 80, 0.7);
+    animation: pulse 3s infinite;
+  " />
 
-## Animations Explained
-
-- **Glow Animation:** The header text cycles between two glow states to create a neon light effect using `@keyframes glow`.
-- **Hover Scale Animation:** When hovering over the visitor counter box, it smoothly scales up to 105% of its size.
-- **Bounce Animation:** The profile image moves vertically up and down continuously to draw attention.
-
-## Demo
-
-![Demo Screenshot](https://github.com/itzalif007/virus/blob/ab1a72fd14e6e32f8eefd9ab9e270103030d71eb/IMG_20230723_154212.jpg?raw=true)
-
-## How to Use
-
-1. Clone or download the repository.
-2. Open the `index.html` file in any modern web browser.
-3. The visitor count will update automatically.
-4. Customize the profile image URL or styling as needed.
-
-## Customize
-
-- Change the visitor counter URL inside the `<img>` tag to your preferred counter.
-- Modify CSS animations or colors in the `<style>` section of the HTML file.
-- Replace the profile image with your own by updating the image URL.
-
-## Technologies Used
-
-- HTML5
-- CSS3 (with animations)
-- Google Fonts (Orbitron)
-
-## License
-
-This project is open-source and available under the MIT License.
+</p>
 
 ---
 
-Made with ❤️ by [Ahameed](https://github.com/Ahameedx07)
+## About Me
+
+👤 Name: <span style="color: #008080; font-weight: 600;">Ahameed</span>  
+🐙 GitHub: [Ahameedx07](https://github.com/Ahameedx07)
+
+---
+
+<style>
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 8px #4CAF50, 0 0 12px #4CAF50;
+    color: #4CAF50;
+  }
+  100% {
+    text-shadow: 0 0 20px #a5d6a7, 0 0 30px #a5d6a7;
+    color: #a5d6a7;
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(76, 175, 80, 0.7);
+    transform: scale(1);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(76, 175, 80, 1);
+    transform: scale(1.05);
+  }
+}
+</style>
