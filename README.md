@@ -1,11 +1,31 @@
-# Welcome to My GitHub Profile 👋
+# 🙌 স্বাগতম! | Welcome to My GitHub Profile
 
-## Visitors Count
+---
+
+## 👤 About Me
+
+- **নাম (Name):** Ahameed  
+- **গিটহাব (GitHub):** [Ahameedx07](https://github.com/Ahameedx07)  
+- **পেশা (Profession):** Software Developer / Web Enthusiast  
+- **শখ (Hobbies):** Coding, Learning, Exploring new technologies
+
+---
+
+## ✨ এক নজরে
+
+> “প্রতিটি ছোট পদক্ষেপ তোমাকে তোমার লক্ষ্য কাছে নিয়ে যাবে।”  
+>  
+> Welcome! I'm Ahameed, a passionate developer who loves creating efficient and elegant solutions.  
+> Feel free to explore my repositories and connect with me!
+
+---
+
+## 🚀 Visitors Count on My GitHub Profile
 
 <p align="center">
 
-  <strong style="color: #4CAF50; font-size: 1.5rem;">
-    𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 𝙾𝙽 𝙼𝚈 𝙶𝙸𝚃𝙷𝚄𝙱 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
+  <strong style="color: #4CAF50; font-size: 1.6rem; letter-spacing: 3px;">
+    𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
   </strong>
   
   <br><br>
@@ -16,11 +36,13 @@
 
 ---
 
-## Thanks to all who have supported me on GitHub! 🙏
+## 🙏 Thanks to all who have supported me on GitHub!
 
 ---
 
-## About Me
+### Feel free to connect:  
+- 📫 Email: your-email@example.com (আপনি চাইলে এখানে যোগ করতে পারেন)  
+- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile) (যদি থাকে)  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle) (যদি থাকে)
 
-👤 Name: **Ahameed**  
-🐙 GitHub: [Ahameedx07](https://github.com/Ahameedx07)
+---
